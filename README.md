@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Guvindu%20Velikala&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Guvindu%20Welikala&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" alt="Header"/>
 </div>
 
 <h3 align="center">
@@ -7,11 +7,11 @@
 </h3>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=guvinduvelikala&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
-  <a href="https://guvinduvelikala.github.io/portfolio" target="_blank">
+  <img src="https://komarev.com/ghpvc/?username=guvindu%20welikala&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <a href="https://guvinduwelikala.github.io/portfolio" target="_blank">
     <img src="https://img.shields.io/badge/Website-Portfolio-3b82f6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="website" />
   </a>  
-  <a href="mailto:guvinduvelikala@example.com">
+  <a href="mailto:guvinduwelikala@example.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
 </div>
@@ -56,14 +56,14 @@
 <!-- GitHub Stats Section -->
 <h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guvinduvelikala&show_icons=true&count_private=true&hide_border=true&title_color=0CE6F2&icon_color=0CE6F2&text_color=c9d1d9&bg_color=0d1117" 
+  <img src="https://github-readme-stats.vercel.app/api?username=guvindu%20welikala&show_icons=true&count_private=true&hide_border=true&title_color=0CE6F2&icon_color=0CE6F2&text_color=c9d1d9&bg_color=0d1117" 
   alt="Guvindu's GitHub Stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guvinduvelikala&layout=compact&hide_border=true&title_color=0CE6F2&text_color=c9d1d9&bg_color=0d1117" 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guvindu%20welikala&layout=compact&hide_border=true&title_color=0CE6F2&text_color=c9d1d9&bg_color=0d1117" 
   alt="Most Used Languages" height="180em" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guvinduvelikala&theme=tokyonight&hide_border=true&stroke=0CE6F2&background=0D1117&ring=0CE6F2&fire=fe8019&currStreakLabel=0CE6F2" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guvindu%20welikala&theme=tokyonight&hide_border=true&stroke=0CE6F2&background=0D1117&ring=0CE6F2&fire=fe8019&currStreakLabel=0CE6F2" alt="GitHub Streak" />
 </div>
 
 <br>
@@ -71,16 +71,16 @@
 <!-- Connect Section -->
 <h2 align="center">🌐 Let's Connect</h2>
 <div align="center">
-  <a href="https://linkedin.com/in/guvinduvelikala" target="_blank">
+  <a href="https://linkedin.com/in/guvinduwelikala" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://fb.com/guvinduvelikala" target="_blank">
+  <a href="https://fb.com/guvinduwelikala" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://github.com/guvinduvelikala" target="_blank">
+  <a href="https://github.com/guvinduwelikala" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://guvinduvelikala.github.io/portfolio" target="_blank">
+  <a href="https://guvinduwelikala.github.io/portfolio" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </div>
@@ -90,7 +90,7 @@
 <!-- Projects Section -->
 <h2 align="center">🎨 Projects Showcase</h2>
 <div align="center">
-  <a href="https://github.com/guvinduvelikala?tab=repositories" target="_blank">
+  <a href="https://github.com/guvinduwelikala?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/View_All_Projects-4C9B87?style=for-the-badge&logo=github" alt="Projects" />
   </a>
 </div>
@@ -111,11 +111,11 @@
 
 <!-- Snake Animation -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuvinduVelikala/GuvinduVelikala/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuvinduVelikala/GuvinduVelikala/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/GuvinduVelikala/GuvinduVelikala/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuvinduWelikala/GuvinduWelikala/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuvinduWelikala/GuvinduWelikala/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/GuvinduWelikala/GuvinduWelikala/output/github-snake.svg" />
 </picture>
 
 <div align="center">
-  <h6>Made with ❤️ by Guvindu Velikala</h6>
+  <h6>Made with ❤️ by Guvindu Welikala</h6>
 </div>
