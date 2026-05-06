@@ -3,11 +3,11 @@
 </div>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0CE6F2&center=true&vCenter=true&width=500&lines=Aspiring+QA+Intern;Hammer+Throw+Athlete;Tech+Explorer;Passionate+Tester" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0CE6F2&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+Intern;Hammer+Throw+Athlete;Tech+Explorer;Passionate+Builder" alt="Typing SVG" />
 </h3>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=guvindu%20welikala&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=guvinduwelikala&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
   <a href="https://guvinduwelikala.github.io/portfolio" target="_blank">
     <img src="https://img.shields.io/badge/Website-Portfolio-3b82f6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="website" />
   </a>  
@@ -22,13 +22,13 @@
   
   <h2>👨‍💻 About Me</h2>
   <p align="left">
-    I'm an aspiring QA Intern with a passion for manual and automated testing. I’m eager to learn industry best practices, contribute to quality software development, and ensure smooth user experiences.
+    I'm a Full Stack Developer Intern with a passion for building end-to-end web applications. I love crafting seamless user experiences on the frontend while designing robust, scalable systems on the backend.
     <br><br>
-    💼 <b>Currently:</b> Exploring Test Automation, Quality Assurance Practices
+    💼 <b>Currently:</b> Full Stack Developer Intern — building real-world applications
     <br>
-    🌱 <b>Learning:</b> Selenium, TestNG, and Agile Methodologies
+    🌱 <b>Learning:</b> React, Node.js, and modern full stack architectures
     <br>
-    🎯 <b>Goal:</b> To build and deliver scalable, bug-free applications
+    🎯 <b>Goal:</b> To build and deliver scalable, high-quality full stack applications
     <br>
     ⚡ <b>Fun fact:</b> Hammer throw athlete—always aiming for my personal best!
   </p>
@@ -42,12 +42,12 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="selenium" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="jira" />
-  <img src="https://img.shields.io/badge/Agile-FF8F00?style=for-the-badge&logo=agile&logoColor=white" alt="agile" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+  <img src="https://img.shields.io/badge/REST_API-0097FF?style=for-the-badge&logo=fastapi&logoColor=white" alt="rest api" />
   <img src="https://img.shields.io/badge/CI/CD-0097FF?style=for-the-badge&logo=circleci&logoColor=white" alt="ci/cd" />
 </div>
 
@@ -56,14 +56,14 @@
 <!-- GitHub Stats Section -->
 <h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guvindu%20welikala&show_icons=true&count_private=true&hide_border=true&title_color=0CE6F2&icon_color=0CE6F2&text_color=c9d1d9&bg_color=0d1117" 
+  <img src="https://github-readme-stats.vercel.app/api?username=guvinduwelikala&show_icons=true&count_private=true&hide_border=true&title_color=0CE6F2&icon_color=0CE6F2&text_color=c9d1d9&bg_color=0d1117" 
   alt="Guvindu's GitHub Stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guvindu%20welikala&layout=compact&hide_border=true&title_color=0CE6F2&text_color=c9d1d9&bg_color=0d1117" 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guvinduwelikala&layout=compact&hide_border=true&title_color=0CE6F2&text_color=c9d1d9&bg_color=0d1117" 
   alt="Most Used Languages" height="180em" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guvindu%20welikala&theme=tokyonight&hide_border=true&stroke=0CE6F2&background=0D1117&ring=0CE6F2&fire=fe8019&currStreakLabel=0CE6F2" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guvinduwelikala&theme=tokyonight&hide_border=true&stroke=0CE6F2&background=0D1117&ring=0CE6F2&fire=fe8019&currStreakLabel=0CE6F2" alt="GitHub Streak" />
 </div>
 
 <br>
@@ -71,7 +71,7 @@
 <!-- Connect Section -->
 <h2 align="center">🌐 Let's Connect</h2>
 <div align="center">
-  <a href="https://linkedin.com/in/guvinduwelikala" target="_blank">
+  <a href="https://linkedin.com/in/guvindu-welikala" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://fb.com/guvinduwelikala" target="_blank">
