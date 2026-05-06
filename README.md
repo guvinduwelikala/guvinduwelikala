@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0CE6F2&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+Intern;Hammer+Throw+Athlete;Tech+Explorer;Passionate+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0CE6F2&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+Intern;National+Hammer+Throw+Athlete;Tech+Explorer;Passionate+Builder" alt="Typing SVG" />
 </h3>
 
 <div align="center">
@@ -30,7 +30,7 @@
     <br>
     🎯 <b>Goal:</b> To build and deliver scalable, high-quality full stack applications
     <br>
-    ⚡ <b>Fun fact:</b> Hammer throw athlete—always aiming for my personal best!
+    ⚡ <b>Fun fact:</b> National-level hammer throw athlete—always aiming for my personal best!
   </p>
 </div>
 
